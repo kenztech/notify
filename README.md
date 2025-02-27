@@ -190,18 +190,11 @@ func main() {
 go run main.go
 ```
 
-### 2. Start a Simple HTTP Server for Frontend
-
-```sh
-cd static
-python3 -m http.server 8081
-```
-
-### 3. Open the Frontend
+### 2. Open the Frontend
 
 Visit `http://localhost:8081` and connect with a user ID.
 
-### 4. Send Notifications
+### 3. Send Notifications
 
 Use the input fields and buttons to send notifications.
 
